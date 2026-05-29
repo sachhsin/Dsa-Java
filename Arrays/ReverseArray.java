@@ -1,6 +1,6 @@
 public class ReverseArray {
     public static void main(String[] args) {
-        int[] arr = {1, 2, 3, 4, 5};
+        int[] arr = {2,3,4,5,6,8};// first 
         
         int left = 0, right = arr.length - 1;
         while (left < right) {
