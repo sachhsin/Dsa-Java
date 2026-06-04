@@ -1,0 +1,12 @@
+
+
+public class no1to10inwhile {
+    public static void main(String[] args) {
+        int i=1;
+        while(i<=10){
+            System.err.println(i);
+            i++;
+        }
+    }
+    
+}
